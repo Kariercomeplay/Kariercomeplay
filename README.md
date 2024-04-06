@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karier" alt="karier" /></a> </p>
 
-- 🔭 I used to work at on reso.vn [Coccan](coccan.com)
+- 🔭 I used to work on reso.vn [Coccan](coccan.com)
 
 - 🌱 I’m currently learning **
-- ✔ C.
-- ✔ C+.
-- ✔ HTML/CSS/ JavaScript.**
+  ✔ C.
+  ✔ C+.
+  ✔ HTML/CSS/ JavaScript.**
 
 - 👯 I used to be a manager at BEANOI [Beanoi](beanoi.com)
 

@@ -18,7 +18,7 @@
 <a href="https://dev.to/nguyen minh phuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nguyen minh phuc" height="30" width="40" /></a>
 <a href="https://fb.com/nguyenminh.phuc.921230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenminh.phuc.921230/" height="30" width="40" /></a>
 <a href="https://instagram.com/xsaynowithgirlx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xsaynowithgirlx/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nguyenminhphuc2720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nguyenminhphuc2720" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nguyenminhphuc2720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nguyenminhphuc2720" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
